@@ -1,0 +1,1 @@
+# litemall-auto-test
